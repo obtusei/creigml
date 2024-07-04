@@ -1,0 +1,226 @@
+[
+  {
+    "title": "I can create beautiful website",
+    "description": "I am proficient in developing beautiful and functional website",
+    "type": "Software Developer",
+    "rate": [
+      {
+        "title": "Basic Plan",
+        "description": "You will static website with static content",
+        "amount": 1200,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      },
+      {
+        "title": "Standard Plan",
+        "description": "You will dynamic website with dynamic content",
+        "amount": 1500,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      },
+      {
+        "title": "Premium Plan",
+        "description": "You will robust website with admin control panel",
+        "amount": 2000,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      }
+    ]
+  },
+  {
+    "title": "I can create stunning logo designs",
+    "description": "I am experienced in creating unique and professional logo designs for your business or brand",
+    "type": "Graphic Designer",
+    "rate": [
+      {
+        "title": "Basic Plan",
+        "description": "You will receive 1-2 design concepts with unlimited revisions",
+        "amount": 800,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      },
+      {
+        "title": "Premium Plan",
+        "description": "You will receive 3-5 design concepts with unlimited revisions and a 1-hour consultation",
+        "amount": 1200,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      }
+    ]
+  },
+  {
+    "title": "I can write engaging articles for you",
+    "description": "I am a skilled writer with expertise in writing high-quality and SEO-optimized articles",
+    "type": "Content Writer",
+    "rate": [
+      {
+        "title": "Basic Plan",
+        "description": "You will receive 1 article of 500 words within 3 days",
+        "amount": 200,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      },
+      {
+        "title": "Premium Plan",
+        "description": "You will receive 5 articles of 500 words each within 7 days with a consultation",
+        "amount": 1000,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      }
+    ]
+  },
+  {
+    "title": "I can create beautiful website",
+    "description": "I am proficient in developing beautiful and functional website",
+    "type": "Software Developer",
+    "rate": [
+      {
+        "title": "Basic Plan",
+        "description": "You will get a static website with static content",
+        "amount": 1200,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      },
+      {
+        "title": "Standard Plan",
+        "description": "You will get a dynamic website with dynamic content",
+        "amount": 1500,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      },
+      {
+        "title": "Premium Plan",
+        "description": "You will get a robust website with admin control panel",
+        "amount": 2000,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      }
+    ]
+  },
+  {
+    "title": "I can design stunning visual materials",
+    "description": "I am skilled in creating high-quality and visually appealing materials such as brochures, flyers, and presentations",
+    "type": "Graphic Designer",
+    "rate": [
+      {
+        "title": "Basic Plan",
+        "description": "You will receive 1 design concept with unlimited revisions",
+        "amount": 400,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      },
+      {
+        "title": "Premium Plan",
+        "description": "You will receive 2-3 design concepts with unlimited revisions and a 30-minute consultation",
+        "amount": 800,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      }
+    ]
+  },
+  {
+    "title": "I can create engaging video content",
+    "description": "I am experienced in creating high-quality and engaging video content for various platforms",
+    "type": "Video Producer",
+    "rate": [
+      {
+        "title": "Basic Plan",
+        "description": "You will receive 1 short-form video (3-5 minutes) with unlimited revisions",
+        "amount": 500,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      },
+      {
+        "title": "Premium Plan",
+        "description": "You will receive 2-3 long-form videos (10-15 minutes each) with unlimited revisions and a 1-hour consultation",
+        "amount": 2000,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      }
+    ]
+  },
+  {
+    "title": "I can provide top-notch social media management services",
+    "description": "I am skilled in creating and implementing effective social media strategies for your business or brand",
+    "type": "Social Media Manager",
+    "rate": [
+      {
+        "title": "Basic Plan",
+        "description": "You will receive 1-month social media management with unlimited posts and engagement",
+        "amount": 300,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      },
+      {
+        "title": "Premium Plan",
+        "description": "You will receive 3-month social media management with unlimited posts, engagement, and a monthly consultation",
+        "amount": 900,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      }
+    ]
+  },
+  {
+    "title": "I can create stunning 3D modeling designs",
+    "description": "I am experienced in creating high-quality and realistic 3D modeling designs for various industries",
+    "type": "3D Modeler",
+    "rate": [
+      {
+        "title": "Basic Plan",
+        "description": "You will receive 1-2 3D models with unlimited revisions",
+        "amount": 800,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      },
+      {
+        "title": "Premium Plan",
+        "description": "You will receive 5-7 3D models with unlimited revisions and a 1-hour consultation",
+        "amount": 2500,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      }
+    ]
+  },
+  {
+    "title": "I can provide high-quality audio services",
+    "description": "I am skilled in providing top-notch audio recording, editing, and mixing services for various projects",
+    "type": "Audio Engineer",
+    "rate": [
+      {
+        "title": "Basic Plan",
+        "description": "You will receive 1-hour audio recording with unlimited revisions",
+        "amount": 200,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      },
+      {
+        "title": "Premium Plan",
+        "description": "You will receive 2-3 hours of audio recording, editing, and mixing with unlimited revisions and a 30-minute consultation",
+        "amount": 1000,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      }
+    ]
+  },
+  {
+    "title": "I can create stunning photography services",
+    "description": "I am experienced in creating high-quality and visually appealing photographs for various industries",
+    "type": "Photographer",
+    "rate": [
+      {
+        "title": "Basic Plan",
+        "description": "You will receive 1-hour photo shoot with unlimited revisions",
+        "amount": 300,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      },
+      {
+        "title": "Premium Plan",
+        "description": "You will receive 2-3 hours of photo shoot, editing, and retouching with unlimited revisions and a 30-minute consultation",
+        "amount": 1500,
+        "mode": "CREIG_PAYMENT",
+        "currency": "NPR"
+      }
+    ]
+  }
+]
